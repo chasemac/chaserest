@@ -1,0 +1,10 @@
+{
+	"applinks": {
+		"apps": [],
+		"details": [{
+				"appID": "MGGWWSSH4G.com.capgroup.capitalconnectmobile",
+				"paths": ["/*"]
+			}
+		]
+	}
+}
